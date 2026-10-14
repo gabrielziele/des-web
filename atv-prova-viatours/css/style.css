@@ -1,0 +1,138 @@
+/* === IMPORTAÇÃO DE FONTES */
+
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&family=Fredoka:wght@300..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Oswald:wght@200..700&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+/*
+Fontes Disponíveis:
+// Sugiro usar esta 
+font-family: "Urbanist", sans-serif; 
+font-family: "Fredoka", sans-serif;
+font-family: "Epilogue", sans-serif;
+font-family: "Nunito", sans-serif;
+font-family: "Oswald", sans-serif;
+*/
+/* ==========================*/
+
+/* ==== FORMATAÇÃO GERAL === */
+html{
+    font-size: clamp(1rem, 2vw + 0.8rem, 3rem); 
+}
+
+header{
+    background-color: #FEF8F5;
+}
+header nav ul li{
+    text-align: center;
+    padding: 10px 5px 10px 5px;
+}
+header nav ul li span{
+    background-color: #ED672B;
+    border-radius: 10px;
+    color: #FFFFFF;
+}
+section.banner{
+    background-color: #FEF8F5;
+}
+section.banner h1{
+    color: #ED672B;
+    text-align: center;
+    padding: 8px 4px 8px 4px ;
+}
+section.tourz{
+    background-color: #FFFFFF;
+}
+section.tourz h2{
+    text-align: center;
+    padding: 5px 2.5px 5px 2.5px;
+    color: #070944;
+}
+section.tourz div ul li{
+    text-align: center;
+    padding: 10px 5px 10px 5px;
+}
+section.tourz div ul li h3{
+    padding: 15px 5px 15px 5px;
+    color: #070944;
+}
+section.tourz div ul li p{
+    color: #050733;
+}
+section.customer{
+    background-color: #f5f0ee;
+}
+section.customer div {
+    text-align: center;
+    color: #070944;
+}
+section.customer div h2{
+    font-size: 1rem;
+    padding: 15px 5px 15px 5px;
+}
+section.customer div img{
+    padding: 15px 5px 15px 5px;
+}
+section.customer div p{
+    font-size: 0.8rem;
+    padding: 15px 5px 15px 5px;
+}
+section.desconto{
+    background-color: #ED672B;
+    text-align: center;
+    padding: 10px 5px 20px 5px;
+}
+section.desconto img{
+    display: none;
+}
+section.desconto div{
+    color: #FFFFFF;
+}
+section.desconto div h2{
+    font-size: 2rem;
+    padding: 2px 1px 2px 1px;
+}
+section.desconto div p a{
+    color: #ED672B;
+    background-color: white;
+    border-radius: 10px;
+    padding: 2px 1px 2px 1px;
+}
+footer{
+    background-color: #050733;
+}
+footer div{
+    color: #FFFFFF;
+    font-size: 0.8rem;
+    padding: 20px 10px 20px 10px;
+}
+footer div p span{
+    font-size: 0.9rem;
+}
+
+
+/* MEDIA QUERY - DESKTOP */
+@media  screen and (min-width: 600px) {
+    header{
+    background-color: #FEF8F5;
+}
+header nav{
+    display: inline-flex;
+    justify-content: space-between;
+}
+header nav ul li{
+    display: inline-flex;
+}
+section.tourz{
+    background-color: #FFFFFF;
+}
+section.tourz h2{
+    display: flex;
+    padding: 5px 2.5px 5px 2.5px;
+    color: #070944;
+}
+section.tourz div ul{
+    display: flex;
+    gap: 20px;
+}
+section.desconto img{
+    display: flex;
+}
+}

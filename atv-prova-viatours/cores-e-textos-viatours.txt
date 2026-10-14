@@ -1,0 +1,57 @@
+#CORES
+
+Laranja	
+#ED672B	
+Título principal e botão de login
+
+Laranja Fundo	
+#ED672B
+Banner promocional e ícones
+
+Branco rosado	
+#FEF8F5	
+Fundo do cabeçalho e banner principal
+
+Branco	
+#FFFFFF	
+Fundo das seções e textos
+
+Azul-marinho	
+#05073C	
+Fundo do rodapé
+
+
+#TEXTOS - Viatours
+
+Home | Activities | Pages | Contact | Log in
+
+Life Is Adventure Make The Best Of It
+
+Why choose Tourz
+Ultimate flexibility
+You're in control, with free cancellation and payment options to satisfy any plan or budget.
+Memorable experiences
+Browse and book tours and activities so incredible, you'll want to tell your friends.
+
+Quality at our core
+High-quality standards. Millions of reviews. A tourz company.
+
+Customer Reviews
+"
+The tours in this website are great. I had been really enjoy with my family! The team is very
+professional and taking care of the customers. Will surely recommend to my freind to join
+this company!
+
+Get 5% off your 1st app booking
+Booking's better on the app. Use promo code "TourBooking" to save!
+Log in
+
+Contact
+328 Queensberry Street, North Melbourne VIC3051, Australia.
+hi@viatours.com
+
+Company
+About Us
+Tourz Reviews
+Contact Us
+Travel Guides
